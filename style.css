@@ -1,3 +1,7 @@
+* {
+    margin: 0;
+}
+
 .title {
     text-align: center;
     font-size: 50px;
@@ -13,4 +17,14 @@
 .header {
     background-color:darksalmon;
     padding: 5px;
+}
+
+.bible {
+    background-color: bisque;
+    padding: 5px;
+    text-indent: 10px;
+}
+
+.bible-paragraph {
+    font-weight: bold;
 }
