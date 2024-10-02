@@ -1,4 +1,16 @@
 .title {
     text-align: center;
+    font-size: 50px;
     color:aquamarine;
+}
+
+.quote {
+    text-align: center;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.header {
+    background-color:darksalmon;
+    padding: 5px;
 }
